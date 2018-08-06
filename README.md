@@ -1,10 +1,10 @@
 #Github
 
 Author: Fabrício Rocha
-Version: 1.0
+Version: 1.0 DEMO
 
 
-Este é um projeto simples para experimentar a Framework front-end Bootstrap.
+Este é um DEMO para experimentar a Framework front-end Bootstrap.
 
 Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
 
