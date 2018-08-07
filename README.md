@@ -1,7 +1,9 @@
-Acesse o projeto em: https://developer-rocha.github.io/Projeto-Bootstrap/
+<h1>DEMO Website em Bootstrap</h1>
+
+View do projeto <a href="https://developer-rocha.github.io/Projeto-Bootstrap/" target="_blank">Website demo</a>
 
 Author: Fabrício Rocha
-Version: 1.0 DEMO
+Version: 1.1 DEMO
 
 
 Este é um DEMO para experimentar a Framework front-end Bootstrap.
